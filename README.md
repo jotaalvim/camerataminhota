@@ -13,6 +13,8 @@ camerataminhota.pt
 
 
 ## todo
+* corrigir DNS para www
+* suporte para mobile
 * comprimir imagens, ha uma com 20MB
 * alinhar imagens
 * pesquisa
