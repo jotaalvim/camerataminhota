@@ -11,6 +11,9 @@ conteúdo em
 ## domínio registado
 camerataminhota.pt
 
+## SSL certificate
+para permitir pedidos https
+https://certbot.eff.org/pages/about
 
 ## todo
 * corrigir DNS para www
